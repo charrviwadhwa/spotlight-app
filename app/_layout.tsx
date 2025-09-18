@@ -13,6 +13,7 @@ export default function RootLayout() {
 
     </SafeAreaProvider>
   </ClerkProvider>
+
   )
 }
 
