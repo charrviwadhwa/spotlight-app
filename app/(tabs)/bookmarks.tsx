@@ -4,7 +4,7 @@ import React from 'react'
 export default function Bookmarks() {
   return (
     <View>
-      <Text>B</Text>
+      <Text>Bookmark</Text>
     </View>
   )
 }
